@@ -20,7 +20,7 @@ Analysis of the curated dataset reveals that the Indian smartwatch sector is hea
 
 Furthermore, feature isolation revealed a critical algorithmic bottleneck: **100% of direct competitors offering the "Essential Trio" (Bluetooth Calling, Waterproofing, and SpO2 Monitoring) are compressed into the lowest budget pricing tier.** These features are baseline expectations rather than premium differentiators. 
 
-![Market Segmentation Pie Chart](images/market_concentration.png) *(Optional: Replace with your Power BI market share chart)*
+![Market Segmentation Pie Chart](images/market_concentration.png) 
 
 ### 2. Predictive Launch Metrics
 To identify the true drivers of success, a Random Forest classification model was trained using 10-Fold Stratified Cross-Validation and optimized using balanced class weights to handle the native 84:16 class imbalance.
@@ -29,7 +29,7 @@ To identify the true drivers of success, a Random Forest classification model wa
 
 The model's Gini Importance scores mathematically established the hardware hierarchy, proving that leaving out even one element of the "Essential Trio" breaks the decision path to popularity.
 
-![Feature Importance Chart](images/feature_importance.png) *(Optional: Replace with a snip of your Random Forest Feature Importance chart)*
+![Feature Importance Chart](images/feature_importance.png) 
 
 ### 3. Promotional Algorithmic Blind Spot
 While promotional **"Deal Badges"** are highly correlated with rapid review accumulation and high velocity, **only 19% of active competitors utilize them**. This represents a massive **81% strategic gap** that a new market entrant can exploit to gain immediate visibility.
@@ -39,7 +39,7 @@ While promotional **"Deal Badges"** are highly correlated with rapid review accu
 ##  Dashboard Preview
 The clean dataset was deployed to Power BI to build an interactive 3-page executive command center tracking Market Overview, Model Insights, and the final Launch Blueprint.
 
-![Power BI Dashboard Overview](images/dashboard_screenshot.png) *(Optional: Place a full screenshot of your Power BI dashboard here)*
+![Power BI Dashboard Overview](images/dashboard_screenshot.png) 
 
 ---
 
