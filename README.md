@@ -5,7 +5,7 @@ This project delivers an end-to-end data-driven market entry strategy for the hi
 
 The primary objective was to define a strict **'Popularity Benchmark'**—calculated as reaching the top 20% of the market in review volume with at least a 4.0-star rating—and mathematically isolate the hardware and promotional configurations required to achieve it.
 
-## 🛠️ Tech Stack & Architecture
+##  Tech Stack & Architecture
 * **Data Extraction:** Python (`BeautifulSoup`, `requests`)
 * **Exploratory Data Analysis & Modeling:** Python (`pandas`, `NumPy`, `scikit-learn`, `seaborn`)
 * **Machine Learning Engine:** Random Forest Classifier optimized via `GridSearchCV`
@@ -52,6 +52,6 @@ The clean dataset was deployed to Power BI to build an interactive 3-page execut
 
 ##  Contact
 * **Name:** Siddhesh Dandekar
-* **Role:** Data Analyst / Data Scientist Intern
+* **Role:** Data Analyst / Data Scientist 
 * **LinkedIn:** www.linkedin.com/in/siddheshdandekar
 * **Email:** siddheshdandekar04@gmail.com
