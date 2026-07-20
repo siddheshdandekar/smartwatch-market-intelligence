@@ -3,7 +3,7 @@
 ## Project Overview
 This project delivers an end-to-end data-driven market entry strategy for the highly saturated Indian smartwatch sector. By engineering a custom data acquisition pipeline, optimizing an ensemble machine learning classifier, and designing a strategic Power BI dashboard, this study moves past anecdotal evidence to define a mathematically validated blueprint for product launch success.
 
-The primary objective was to define a strict **'Popularity Benchmark'** calculated as reaching the top 20% of the market in review volume with at least a 4.0-star rating—and mathematically isolate the hardware and promotional configurations required to achieve it.
+The primary objective was to define a strict **'Popularity Benchmark'** calculated as reaching the top 20% of the market in review volume with at least a 4.0-star rating and mathematically isolate the hardware and promotional configurations required to achieve it.
 
 ##  Tech Stack & Architecture
 * **Data Extraction:** Python (`BeautifulSoup`, `requests`)
